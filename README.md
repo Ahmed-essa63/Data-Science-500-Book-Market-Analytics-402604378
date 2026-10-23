@@ -70,3 +70,7 @@ The scraper follows the catalogue's “next” page link and should collect the 
 ## Important before submission
 
 Run the scraper and analysis on your own machine, then check that the CSV files, figures and metrics were generated. Add your own name/student number to any cover page and review the notebook/report, because you are responsible for understanding and verifying your submitted work.
+
+## GitHub Repository
+
+https://github.com/Ahmed-essa63/Data-Science-500-Book-Market-Analytics-402604378
