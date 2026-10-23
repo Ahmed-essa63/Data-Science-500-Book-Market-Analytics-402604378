@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="450">
+<rect width="100%" height="100%" fill="white"/>
+<text x="380" y="28" text-anchor="middle" font-size="20">Book Price Distribution</text>
+<text x="380" y="435" text-anchor="middle" font-size="14">Price range (GBP)</text>
+<text x="20" y="220" transform="rotate(-90 20 220)" text-anchor="middle" font-size="14">Number of books</text>
+<rect x="100.0" y="80.4" width="48.0" height="309.6" fill="#4776a8"/>
+<text x="125.0" y="408" text-anchor="middle" font-size="9">10</text>
+<rect x="150.0" y="127.2" width="48.0" height="262.8" fill="#4776a8"/>
+<text x="175.0" y="408" text-anchor="middle" font-size="9">15</text>
+<rect x="200.0" y="89.2" width="48.0" height="300.8" fill="#4776a8"/>
+<text x="225.0" y="408" text-anchor="middle" font-size="9">20</text>
+<rect x="250.0" y="89.2" width="48.0" height="300.8" fill="#4776a8"/>
+<text x="275.0" y="408" text-anchor="middle" font-size="9">25</text>
+<rect x="300.0" y="150.5" width="48.0" height="239.5" fill="#4776a8"/>
+<text x="325.0" y="408" text-anchor="middle" font-size="9">30</text>
+<rect x="350.0" y="60.0" width="48.0" height="330.0" fill="#4776a8"/>
+<text x="375.0" y="408" text-anchor="middle" font-size="9">35</text>
+<rect x="400.0" y="92.1" width="48.0" height="297.9" fill="#4776a8"/>
+<text x="425.0" y="408" text-anchor="middle" font-size="9">40</text>
+<rect x="450.0" y="89.2" width="48.0" height="300.8" fill="#4776a8"/>
+<text x="475.0" y="408" text-anchor="middle" font-size="9">45</text>
+<rect x="500.0" y="98.0" width="48.0" height="292.0" fill="#4776a8"/>
+<text x="525.0" y="408" text-anchor="middle" font-size="9">50</text>
+<rect x="550.0" y="103.8" width="48.0" height="286.2" fill="#4776a8"/>
+<text x="575.0" y="408" text-anchor="middle" font-size="9">55</text>
+</svg>

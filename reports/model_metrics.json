@@ -1,0 +1,10 @@
+{
+  "method": "Simple linear regression",
+  "feature": "rating",
+  "target": "price_gbp",
+  "slope": 0.2836,
+  "intercept": 34.2415,
+  "r_squared": 0.0008,
+  "rated_books_used": 1000,
+  "example_prediction_rating_3": 35.09
+}
